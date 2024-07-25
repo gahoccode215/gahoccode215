@@ -3,4 +3,4 @@
 
 
 
-<h3 align="left" margin-bottom="5px" >It’s not a bug; it’s an undocumented feature</h3>
+<h3 align="center" margin-bottom="5px" >"It’s not a bug; it’s an undocumented feature" - Anonymous</h3>
